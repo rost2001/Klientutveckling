@@ -38,3 +38,26 @@ h1 {
     margin-right: auto;
     text-align: center;
   }
+
+p > img {
+    padding: 25px;
+}
+
+ul > li {
+    list-style: none;
+}
+
+.gitlink {
+    text-decoration: none;
+    color: indigo;
+    font-weight: bold;
+}
+
+.intro {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.project {
+    margin-right: 100px;
+}
